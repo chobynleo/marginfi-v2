@@ -18,7 +18,7 @@ cfg_if::cfg_if! {
     } else if #[cfg(feature = "devnet")] {
         declare_id!("neetcne3Ctrrud7vLdt2ypMm21gZHGN2mCmqWaMVcBQ");
     } else {
-        declare_id!("5SgiHe1XMtP1P5mmwdHC4nAQvqdjH7g72yKYYgozL5A7");
+        declare_id!("6dVgRqNL1SUmFd9zwz6wd7G3vzx75Eym7r3Uxz4d55bY");
     }
 }
 
